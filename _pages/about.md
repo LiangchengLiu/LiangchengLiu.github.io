@@ -23,4 +23,4 @@ I am a senior student from the [School of Automation and Intelligent Manufacturi
 
 My research interests primarily center around modeling, control, and simulation of UAV system, along with the engineering implementation of their intelligent algorithms. In terms of academic research, I have published as the first author at the 2025 IEEE ICUS, with the work addressing modeling, control, and simulation of four UAVs rigidly connected via a cross-shaped rod. In addition, my senior thesis focuses on the dynamics modeling of multi-UAV cooperative suspended-load transportation systems. 
 
-Now, I'm seeking for Phd opportunities! If you are interested in my research, please feel free to contact me at [liulc2022@mail.sustech.edu.cn](mailto:liulc2022@mail.sustech.edu.cn)
+Now, I'm seeking for PhD opportunities! If you are interested in my research, please feel free to contact me at [liulc2022@mail.sustech.edu.cn](mailto:liulc2022@mail.sustech.edu.cn)
