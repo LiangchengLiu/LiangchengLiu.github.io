@@ -19,9 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, there! 👋 Welcome to Liangcheng Liu’s Homepage.
 
-I am a senior student from the the [School of Automation and Intelligent Manufacturing](https://aim.sustech.edu.cn/en/) in [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/en/). I have built a comprehensive background in UAVs under the guidance of [Prof. Liangming Chen](https://www.sustech.edu.cn/en/faculties/liangmingchen.html).
+I am a senior student from the [School of Automation and Intelligent Manufacturing](https://aim.sustech.edu.cn/en/) in [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/). I have built a comprehensive background in unmanned aerial vehicle (UAV) under the guidance of [Prof. Liangming Chen](https://www.sustech.edu.cn/en/faculties/liangmingchen.html).
 
-My research interests primarily center around modeling, control, and simulation of UAV system, as well as the engineering implementation of their intelligent algorithms. In terms of academic research, I have published as the first author at the 2025 IEEE International Conference on Unmanned Systems (ICUS), with the work focusing on modeling, control, and simulation of four UAVs rigidly connected via a cross-shaped rod. 
-In addition, my senior thesis focuses on the modeling of multi-UAV cooperative suspended-load transportation systems. 
+My research interests primarily center around modeling, control, and simulation of UAV system, along with the engineering implementation of their intelligent algorithms. In terms of academic research, I have published as the first author at the 2025 IEEE ICUS, with the work addressing modeling, control, and simulation of four UAVs rigidly connected via a cross-shaped rod. In addition, my senior thesis focuses on the dynamics modeling of multi-UAV cooperative suspended-load transportation systems. 
 
 Now, I'm seeking for Phd opportunities! If you are interested in my research, please feel free to contact me at [liulc2022@mail.sustech.edu.cn](mailto:liulc2022@mail.sustech.edu.cn)
