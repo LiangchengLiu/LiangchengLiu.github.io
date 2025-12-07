@@ -654,37 +654,34 @@ footer.sticky-bottom {
   }
 
   ol.bibliography {
-    list-style: none;
-    padding: 0;
-    margin-top: 0;
+      list-style: none;
+      padding: 0;
+      margin-top: 0;
 
-    li {
-      margin-bottom: 1rem;
+      li {
+        margin-bottom: 1rem;
 
-      .preview {
-        width: 100%;
-        min-width: 80px;
-        max-width: 200px;
-      }
+        .preview {
+          width: 100%;
+        }
 
-      .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
+        .abbr {
+          margin-bottom: 0.5rem;
 
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          abbr {
+            display: inline-block;
+            background-color: var(--global-theme-color);
+            margin-bottom: 0.5rem;
+            color: var(--global-card-bg-color) !important;
 
-          a {
-            color: white;
+            a {
+              color: white;
 
-            &:hover {
-              text-decoration: none;
+              &:hover {
+                text-decoration: none;
+              }
             }
           }
-        }
 
         .award {
           color: var(--global-theme-color) !important;
