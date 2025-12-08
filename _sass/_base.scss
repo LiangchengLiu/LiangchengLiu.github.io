@@ -1066,10 +1066,13 @@ nav[data-toggle="toc"] {
 
 .medium-zoom-overlay,
 .medium-zoom-image--opened {
-  max-height: 70vh !important; /* 高度最多 70% viewport */
-  width: auto !important;      /* 让宽度按比例缩放 */
+  z-index: 999 !important;
+}
+
+.medium-zoom-image--opened {
+  max-height: 70vh !important;
+  width: auto !important;
   object-fit: contain;
-  z-index: 999;
 }
 
 #toc-sidebar {
