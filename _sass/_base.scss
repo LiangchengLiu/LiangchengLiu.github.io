@@ -1070,9 +1070,7 @@ nav[data-toggle="toc"] {
 }
 
 .medium-zoom-image--opened {
-  max-height: 70vh !important;
-  width: auto !important;
-  object-fit: contain;
+  transform: scale(0.7) !important;
 }
 
 #toc-sidebar {
